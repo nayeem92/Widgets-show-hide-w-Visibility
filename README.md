@@ -1,5 +1,5 @@
 
-# SHow/Hide widgets
+# Show/Hide widgets
 
 Clicking buttons will show or hide widgets
 
